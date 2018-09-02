@@ -7,7 +7,8 @@
         - Windows:下载 2017(破解汉化版)
         - Ubuntu:软件仓库里有免费版或者pro版本
 - 树莓派环境的配置
-    - sudo pip3 install jupyter
+    - 安装球比特笔记本：sudo pip3 install jupyter
+    - 安装谷歌输入法：sudo apt-get install fcitx fcitx-googlepinyin
         
 - 类(class)
     - 练习文档为
