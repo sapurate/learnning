@@ -5,7 +5,8 @@ class Ab ():
         age = a.age + 1
         print('虚岁为{0}'.format(age))
         return None
-
+class Bb(Ab):
+    pass
 a = Ab()
 a.name = 'xzf'
 a.age = 20
